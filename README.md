@@ -11,6 +11,7 @@ To Do List using tk:
   -I have plans to eventually customize this to do list with my personal schedule and favorite colors
 
 
+Project was Made Fall 2023
   TicTacToe Game:
   CMD Line version: I started by trying to test my skills after recently learning java. I started by making a 2 player game that allowed for moves and had objects like Player and Board.
   I wanted to make it more complex and made an algorithm/functions for the user to play against. It is a simple output just in the terminal where you enter numbers that represent moves.
